@@ -1,5 +1,5 @@
 *{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Otomanopee One', sans-serif;
     list-style: none;
     text-decoration: none;
     border-collapse: collapse;
@@ -13,7 +13,7 @@ body{
 }
 
 .frame{
-    margin: 100px 200px;
+    margin: 25px 200px;
     display:flex;
     flex-direction:column;
 }
@@ -50,7 +50,7 @@ body{
 
 ul{
     margin-top:10px;
-    margin-left: 250px;
+    margin-left: 150px;
 }
 
 li{
@@ -145,7 +145,6 @@ a:hover{
     margin-top:150px;
     font-size:15px;
     font-weight:100;
-    font-style:italic;
 }
 
 .info-section{
@@ -168,8 +167,16 @@ a:hover{
     width: 100;
 }
 
+#game{
+    width:5cm;
+    
+}
+
 #profile{
     margin-left: 50px;
     width:300px;
 }
 
+.game-frame{
+    margin-left: 100;
+}
