@@ -125,15 +125,14 @@ a:hover{
 
 .introduction{
     margin-left:50px;
-    margin-top:150px;
     font-size:15px;
     font-weight:100;
 }
 
 .info-section{
     display:flex;
-    flex-direction:row;
-    align-items:flex-start;
+    flex-direction: column;
+    align-items:center;
 
     margin: 50px 50px;
 }
@@ -157,7 +156,6 @@ a:hover{
 }
 
 #profile{
-    margin-left: 50px;
     width:300px;
 }
 
@@ -177,4 +175,15 @@ a:hover{
     display:flex;
     flex-direction: column;
     align-items:center;
+}
+
+.email{
+    font-weight:700;
+    font-size:15px;
+}
+
+.game-name{
+    margin-left: 50px;
+    font-weight:700;
+    font-size:15px;
 }
