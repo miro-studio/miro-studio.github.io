@@ -152,7 +152,7 @@ a:hover{
 }
 
 #game{
-    width:5cm;
+    width:10;
     
 }
 
@@ -161,7 +161,20 @@ a:hover{
     width:300px;
 }
 
+.games{
+}
 
 .game-frame{
-    margin-left: 110PX;
+    margin-top:100px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.detail{
+    font-size: 10px;
+    font-weight: 100;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
 }
