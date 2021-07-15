@@ -13,34 +13,17 @@ body{
 }
 
 .frame{
-    margin: 25px 200px;
+    margin: 10px 250px;
     display:flex;
     flex-direction:column;
 }
 
-.adventure_frame{
-    margin: 200px 100px;
+.genre_frame{
+    margin: 200px 200px;
     display:flex;
     flex-direction:column;
 }
 
-.casual_frame{
-    margin: 200px 100px;
-    display:flex;
-    flex-direction:column;
-}
-
-.arcade_frame{
-    margin: 200px 100px;
-    display:flex;
-    flex-direction:column;
-}
-
-.tycoon_frame{
-    margin: 200px 100px;
-    display:flex;
-    flex-direction:column;
-}
 
 
 .site-name{
@@ -50,7 +33,7 @@ body{
 
 ul{
     margin-top:10px;
-    margin-left: 150px;
+    margin-left: 65px;
 }
 
 li{
@@ -155,8 +138,9 @@ a:hover{
     margin: 50px 50px;
 }
 
+
 .community_guide{
-    margin-left:50px;
+    margin-left:110px;
     margin-top:50px;
     font-size:15px;
     font-weight:100;
@@ -177,6 +161,7 @@ a:hover{
     width:300px;
 }
 
+
 .game-frame{
-    margin-left: 100;
+    margin-left: 110PX;
 }
