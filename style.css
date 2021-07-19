@@ -153,7 +153,8 @@ a:hover{
 
 #game{
     width:200px;
-    
+    margin:30px;
+
 }
 
 #profile{
@@ -182,14 +183,6 @@ a:hover{
     font-size:15px;
 }
 
-.game-name{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-weight:700;
-    font-size:15px;
-}
-
 .comment-section{
     margin-top:500px;
 }
@@ -207,7 +200,21 @@ a:hover{
     width: 300px;
 }
 
-.game-array{
-    display: inline;
-    
+.container{
+    width: 900px;
+    height:290px;
+    background-color: #b4ac9e;
+
+    display: flex;
+
+    justify-content:flex-start;
+
+    align-items:flex-start;
+}
+
+.item{
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    /* background-color: burlywood; */
 }
