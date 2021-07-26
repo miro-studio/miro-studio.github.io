@@ -218,3 +218,10 @@ a:hover{
     height: 250px;
     /* background-color: burlywood; */
 }
+
+
+
+.comment-section{
+    margin: 150px 150px;
+    width: 800px;
+}
