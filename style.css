@@ -222,6 +222,7 @@ a:hover{
 
 
 .comment-section{
-    margin: 150x 150px;
-    width: 1200px;
+        display:flex;
+        flex-direction: column;
+        align-items:center;
 }
