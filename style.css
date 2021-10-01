@@ -202,7 +202,7 @@ a:hover{
 
 .container{
     width: 900px;
-    height:290px;
+    height:250px;
     background-color: #b4ac9e;
 
     display: flex;
@@ -222,6 +222,6 @@ a:hover{
 
 
 .comment-section{
-    margin: 150px 150px;
-    width: 800px;
+    margin: 150x 150px;
+    width: 1200px;
 }
